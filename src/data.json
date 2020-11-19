@@ -471,7 +471,7 @@
     "Title": "Associate Director, Agency Services Partner Success",
     "Location": "New York, NY",
     "id": "61",
-    "pid": "0",
+    "pid": "60",
     "img": "images/61_Amanda_DeMeester.png",
     "tags": ["Management"]
   },
@@ -480,7 +480,7 @@
     "Title": "Partner Success Manager, Agency Services",
     "Location": "New York, NY",
     "id": "62",
-    "pid": "0",
+    "pid": "60",
     "img": "images/62_Allison_Jadevero.png",
     "tags": ["Management"]
   },
@@ -489,7 +489,7 @@
     "Title": "Senior Director, Partner Development",
     "Location": "New York, NY",
     "id": "63",
-    "pid": "0",
+    "pid": "60",
     "img": "images/63_Bill_Wilson.png",
     "tags": ["Management"]
   },
@@ -498,7 +498,7 @@
     "Title": "Senior Partner Success Manager, Agency Services",
     "Location": "New York, NY",
     "id": "64",
-    "pid": "0",
+    "pid": "60",
     "img": "images/64_Kevin_Maccarella.png",
     "tags": ["Management"]
   },
@@ -507,7 +507,7 @@
     "Title": "Senior Partner Success Manager, Agency Services",
     "Location": "New York, NY",
     "id": "65",
-    "pid": "0",
+    "pid": "60",
     "img": "images/65_Molly_Hamlin.png",
     "tags": ["Management"]
   },
@@ -516,7 +516,7 @@
     "Title": "Partner Success Manager, Agency Services",
     "Location": "Washington, D.C.",
     "id": "66",
-    "pid": "1",
+    "pid": "61",
     "img": "images/66_Christine_Zitelli.png",
     "tags": ["Management"]
   },
@@ -525,7 +525,7 @@
     "Title": "Partner Success Manager",
     "Location": "Washington, D.C.",
     "id": "67",
-    "pid": "1",
+    "pid": "61",
     "img": "images/67_Mikayla_Callery.png",
     "tags": ["Management"]
   },
@@ -534,7 +534,7 @@
     "Title": "Senior Regional Manager",
     "Location": "Washington, D.C.",
     "id": "68",
-    "pid": "1",
+    "pid": "61",
     "img": "images/68_Samantha_Connell.png",
     "tags": ["Management"]
   }
